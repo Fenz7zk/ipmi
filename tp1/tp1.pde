@@ -1,4 +1,5 @@
-// Mercado Julian
+// Mercado Julian 45396898 
+// 119089/9
 // Tp1 Comision 3
 //Variable guardar imagen
 PImage Pacman;
